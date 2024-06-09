@@ -1,3 +1,20 @@
+# BerkStore
+
+A React Native application to practice custom components, FlatList, and TextInput.
+
+## Description
+
+BerkStore is a simple React Native application designed to reinforce the usage of custom components, FlatList, and TextInput. The application displays a list of products, includes a search bar, and shows the stock status of each product.
+
+## Features
+
+- Display a list of products using a custom `ProductCard` component.
+- Show the stock status of each product.
+- Includes a search bar to filter products (functionality can be extended).
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -78,3 +95,8 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # Store-React-Native
+
+## Screenshots
+![Screenshot_20240610_020808](https://github.com/akgullberk/Store-React-Native/assets/108866525/80aeb0b6-88bb-4fc7-9590-1eea3781fc59)
+[Screen_recording_20240610_021258.webm](https://github.com/akgullberk/Store-React-Native/assets/108866525/8176b56a-cd6a-4f77-91da-2de4f69d1b9e)
+
