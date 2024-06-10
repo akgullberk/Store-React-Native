@@ -97,6 +97,7 @@ To learn more about React Native, take a look at the following resources:
 # Store-React-Native
 
 ## Screenshots
-![Screenshot_20240610_020808](https://github.com/akgullberk/Store-React-Native/assets/108866525/80aeb0b6-88bb-4fc7-9590-1eea3781fc59)
+![Screenshot_20240610_020808](https://github.com/akgullberk/Store-React-Native/assets/108866525/f8f8eb5f-d8ce-47d5-8652-df3dc21947a6)
+
 [Screen_recording_20240610_021258.webm](https://github.com/akgullberk/Store-React-Native/assets/108866525/8176b56a-cd6a-4f77-91da-2de4f69d1b9e)
 
